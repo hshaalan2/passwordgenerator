@@ -1,3 +1,4 @@
+
 # passwordgenerator app
 GitHub repository: https://github.com/hshaalan2/passwordgenerator
 
@@ -12,3 +13,4 @@ Components:
 The app utilize HTML,CSS and Java Script by using prompt() to capture user's input, stores inputs in variables and then uses various math functions to generate password based on provided criteria. Some jQuery code is used to select elements
 
 ![myapp_password](https://user-images.githubusercontent.com/77016211/114246064-abe84180-995f-11eb-8c9d-bcb0248b2d8f.png)
+![passgen1](https://user-images.githubusercontent.com/77016211/114246175-ef42b000-995f-11eb-9c30-899a06e98dd4.png)
