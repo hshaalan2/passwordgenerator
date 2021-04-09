@@ -9,5 +9,5 @@ This is an app for automatically generating strong passwords based on criteria i
 
 Components:
 
-The app utilize HTML,CSS and Java Script by using prompt() to capture user's input, stores inputs in variables and then uses various math functions to generate password based on provided criteria. 
+The app utilize HTML,CSS and Java Script by using prompt() to capture user's input, stores inputs in variables and then uses various math functions to generate password based on provided criteria. Some jQuery code is used to select elements
 
