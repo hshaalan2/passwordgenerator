@@ -17,3 +17,5 @@ The app utilize HTML,CSS and Java Script by using prompt() to capture user's inp
 ![passgen1](https://user-images.githubusercontent.com/77016211/114246175-ef42b000-995f-11eb-9c30-899a06e98dd4.png)
 ![passgen2](https://user-images.githubusercontent.com/77016211/114246203-0b465180-9960-11eb-8924-bcca9c35e8de.png)
 ![passgen4](https://user-images.githubusercontent.com/77016211/114246330-56606480-9960-11eb-8458-0672acd7b13d.png)
+![passgen5](https://user-images.githubusercontent.com/77016211/114246369-6aa46180-9960-11eb-9409-38d94e79ff45.png)
+
