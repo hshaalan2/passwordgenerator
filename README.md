@@ -1,4 +1,5 @@
 
+
 # passwordgenerator app
 GitHub repository: https://github.com/hshaalan2/passwordgenerator
 
@@ -14,3 +15,4 @@ The app utilize HTML,CSS and Java Script by using prompt() to capture user's inp
 
 ![myapp_password](https://user-images.githubusercontent.com/77016211/114246064-abe84180-995f-11eb-8c9d-bcb0248b2d8f.png)
 ![passgen1](https://user-images.githubusercontent.com/77016211/114246175-ef42b000-995f-11eb-9c30-899a06e98dd4.png)
+![passgen2](https://user-images.githubusercontent.com/77016211/114246203-0b465180-9960-11eb-8924-bcca9c35e8de.png)
